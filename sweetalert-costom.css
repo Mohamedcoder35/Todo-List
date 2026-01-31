@@ -1,0 +1,35 @@
+.warning-icon {
+  color: #ff9f43;
+  border-color: #ff9f43;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.warning-title {
+  color: #ff9f43;
+}
+.warning-text {
+  color: #d9d9e0;
+  font-size: 18px;
+  line-height: 1.5;
+}
+.add-task-title {
+  font-size: 20px !important;
+  font-weight: 900;
+  color: #2ecc71;
+  line-height: 0;
+}
+.add-task-text {
+  width: 100%;
+  line-height: 1.5;
+  padding-left: 0.6rem;
+  padding: 0;
+  margin: 0;
+}
+.success-completed-text {
+  color: #a0a0ab;
+  font-size: 18px;
+}
+.delete-warning-title {
+  color: #e74c3c;
+}
